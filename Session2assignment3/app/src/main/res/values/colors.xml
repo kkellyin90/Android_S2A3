@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#696969</color>
+    <color name="colorPrimaryDark">#EEE5DE</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <item name="dimGrey"type="color">#696969</item>
+    <item name="black"type="color">#000000</item>
+    <item name="gray"type="color">#BEBEBE</item>
+</resources>
